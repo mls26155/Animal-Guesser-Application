@@ -1,2 +1,2 @@
 # Animal-Guesser-Application
-Program generates an animal guessing game from a .txt file. The player must guess the animal the program is thinking of.
+Program generates an animal guessing game from a .txt file. The player must guess the animal the program is thinking of. Features a collection data structure.
