@@ -11,7 +11,7 @@ public class GuessAnimalsDemo {
 		Scanner keyboard = new Scanner(System.in);
 		
 		final int CAPACITY = 1000;   // capacity of collection
-	    String file = "C:\\Users\\Mike\\Documents\\Winter Break\\HW6Q13\\src\\Animals.txt";
+	    String file = "C:\\Users\\Mike\\Documents\\src\\Animals.txt";
 	    String word;
 		CollectionInterface<String> words = new ArrayCollection<String>(CAPACITY);
 		FileReader fin = new FileReader(file);
